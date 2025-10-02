@@ -1,4 +1,4 @@
-# Design Patterns - TypeScript Demo
+# Design Patterns - TypeScript 
 
 This project demonstrates six design pattern use-cases:
 - Behavioral: Observer (Notification System), Strategy (Payment Processor)
@@ -19,15 +19,3 @@ How to run:
 Or for development:
 - `npm run dev` (requires ts-node)
 
-The final deliverable should be uploaded to GitHub. To push this repo:
-
-```
-git init
-git add .
-git commit -m "Initial commit - design patterns demo"
-gh repo create your-username/design-patterns-ts --public --source=. --remote=origin
-git push -u origin main
-```
-
-Walkthrough:
-- `src/index.ts` contains CLI and wiring where you can invoke each use-case interactively.
