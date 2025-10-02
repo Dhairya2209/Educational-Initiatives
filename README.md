@@ -1,4 +1,4 @@
-# Design Patterns Demo in TypeScript
+# Design Patterns  in TypeScript
 
 This project demonstrates **six different design pattern use-cases** implemented in **TypeScript**, following best practices including modular code structure, logging, defensive programming, validations, and CLI-driven input.  
 
