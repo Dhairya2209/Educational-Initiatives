@@ -25,6 +25,7 @@ Create a simulation for a **Smart Home System** that allows the user to:
 ---
 
 ## 📂 Project Structure  
+```bash
 src/
 ├── devices/
 │   ├── SmartDevice.java        # Abstract base class
